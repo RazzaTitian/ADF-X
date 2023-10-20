@@ -14,5 +14,4 @@ All rights, including but not limited to intellectual property rights, remain th
 For questions or inquiries, please contact:
 
 email: zeusprototype01@gmail.com
-Instagram: re_archange
 
