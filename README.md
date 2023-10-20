@@ -73,6 +73,8 @@ The ultimate aim of ADF-X is to be a one-stop solution for all data generation n
 - **Data Perturbation**: Adds noise to existing data points to generate new data.
 
 
+### Copyright and Licensing
+
 Copyright © Muhammad Razza Titian Jiwani 2023
 
 All rights reserved. This project and its associated code, assets, and documentation are protected by copyright law. No part of this project may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright owner, Muhammad Razza Titian Jiwani, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
